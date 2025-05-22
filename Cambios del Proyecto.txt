@@ -1,0 +1,6 @@
+Cambios del Proyecto
+1- cambio de imagen del fondo
+2- cambio de colores de puntaje
+3- cambio de icono en la pestaña
+4- cambio de interfaz
+5- un botón de incio de juego
